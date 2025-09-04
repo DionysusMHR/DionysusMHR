@@ -1,5 +1,6 @@
 ## Hello World! 🌌
-### My name is  Mohammad Hosein
+### My name is Mohammad Hosein
+### 
 
 ### About me
 - 📚 Interested in mathematics, computer science and philosophy
@@ -13,16 +14,17 @@
 - Web Scraping | Machine Learning
 
 <!--
-**DionysusMHR/DionysusMHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### projects
+-
+-
+-
 
-Here are some ideas to get you started:
+### connect with me
+-linkedin
+-email
+-instagram
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### github stat
+
+
 -->
